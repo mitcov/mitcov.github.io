@@ -39,7 +39,8 @@ ul {
     list-style: disc inside;
     margin-left: 1em;
 }
-.time, .address {
+.phone,
+.address {
     font-style: italic;
     color: #666;
 }
